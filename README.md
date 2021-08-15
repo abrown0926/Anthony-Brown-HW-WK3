@@ -1,7 +1,6 @@
 # Anthony-Brown-HW-WK3
 
-
-
+![Screen Shot 2021-08-14 at 9 27 14 AM](https://user-images.githubusercontent.com/85444308/129459509-5671f0ad-0c2d-409d-b8e9-41973e24a59e.png)
 
 
 # 03 JavaScript: Password Generator
